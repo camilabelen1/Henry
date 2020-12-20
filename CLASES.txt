@@ -1,0 +1,20 @@
+LA INTERFAZ DE ISUARIO ES EL MEDIO CON EL QUE EL USUARIO PUEDE COMUNICARSE
+CON UN DISPOSITIVO.
+
+CLI (COMMAND LINER INTERFACES) CODIFICADA Y ESTRICTA
+GUI (GRAFFICAL USER INTERFACES) METAFORICA Y EXPLICATORIA ( DIDACTICA )
+NUI (NECTIV USER INTERFACES) DIRECTA, INTULTIVA
+
+ESTRUCTURA
+NOMBRE DEL COMANDO, OPCIONES Y ARGUMENTOS
+HEAD -N 3  README.MD
+
+AGREGAR COSAS
+
+Primero debe agregar y enviar el archivo png a su repositorio local. Luego, envíe las actualizaciones al servidor remoto.
+
+git add xxx.png
+git commit -m 'add png file'
+git remote add origin https://github.com/xxx.git
+git push -u origin master
+
